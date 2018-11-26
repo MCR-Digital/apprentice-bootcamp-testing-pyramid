@@ -38,7 +38,7 @@ Organisation mentors should look to exercise the knowledge we’ve covered in th
 <!--- For end of boot camp: Signposting for apprentices self study, further learning, online resources, practice etc. --->
 
 * [API Mock Server](https://help.apiary.io/tools/mock-server/)
-* [Cucumber] (docs.cucumber.io/guides)
+* [Cucumber] (https://docs.cucumber.io/guides/)
 * [Practical Test Pyramid by Martin Fowler] (https://martinfowler.com/articles/practical-test-pyramid.html)
 
  
