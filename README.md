@@ -33,6 +33,12 @@ Organisation mentors should look to exercise the knowledge we’ve covered in th
 * Perform some exploratory testing on your system and try to break it.
 * How many tests does your team have at each level of the pyramid? How long do they take to run?
 
+Mocking
+* How does your organisation use mocking?
+* What framework?
+* How do you do contract testing?
+
+
 ## Further reading / learning resources
 
 <!--- For end of boot camp: Signposting for apprentices self study, further learning, online resources, practice etc. --->
